@@ -19,7 +19,7 @@ export const metadata: Metadata = {
 };
 
 const REPO_URL = 'https://github.com/MrSpark714/Zen-Mobile-Application';
-const APK_URL = 'https://github.com/MrSpark714/Zen-Mobile-Application/releases/tag/v1.0.0';
+const APK_URL = 'https://github.com/MrSpark714/Zen-Mobile-Application/releases/tag/0.9.2';
 const ISSUES_URL = 'https://github.com/MrSpark714/Zen-Mobile-Application/issues';
 
 const PRESS_LG =
